@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background: url('images/background.jpg') no-repeat center center fixed;
+  background: url("images/background.jpg") no-repeat center center fixed;
   backdrop-filter: blur(0.5px);
   background-size: cover;
   font-family: Arial, sans-serif;
